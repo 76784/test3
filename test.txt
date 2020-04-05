@@ -1,1 +1,1 @@
-foo bar yo
+foo bar 
